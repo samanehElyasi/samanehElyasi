@@ -1,3 +1,6 @@
+
+
+
 <!-- 1 -->
 <h2> Hi, I'm SamanehElyasi! (Frontend Developer) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
@@ -12,11 +15,12 @@ const Userprofile = {
       birthday:"16 march",
       skills:["JavaScript","Html","css"],
       tools:["React","Redux","Nextjs","Tailwind"],
- }
+ },
   challenge:
     "I am doing the challenge focused on react and Nextjs",
 };
 ```
+---
 
 
 
