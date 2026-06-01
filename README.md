@@ -21,6 +21,8 @@ const Userprofile = {
 };
 ```
 ---
+> ![](https://img.shields.io/badge/Javascript-blue?logo=Javascript)  ![](https://img.shields.io/badge/Html-yellow?logo=html5)   ![](https://img.shields.io/badge/Css-pink?logo=Css)  ![](https://img.shields.io/badge/Tailwind-purple?logo=tailwindcss)  ![](https://img.shields.io/badge/React-white?logo=react) ![](https://img.shields.io/badge/Nextjs-ash?logo=next.js)  ![](https://img.shields.io/badge/Redux-black?logo=redux)
+
 
 
 
